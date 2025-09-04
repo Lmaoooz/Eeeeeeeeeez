@@ -118,7 +118,6 @@ end)
 
 local Tabs = {
     Main = Window:AddTab({ Title = "Menu", Icon = "" }),
-    Auto = Window:AddTab({ Title = "Automatically", Icon = "" }),
     Joiner = Window:AddTab ({ Title = "Auto Join", Icon = "" }),
     Shop = Window:AddTab ({ Title = "Shop", Icon = "" }),
     Webhook = Window:AddTab ({ Title = "Webhook", Icon = "" }),
